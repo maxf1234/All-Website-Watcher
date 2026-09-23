@@ -51,7 +51,7 @@
 <script>
 // Owner and repo come from the Pages address (OWNER.github.io/REPO/); the
 // fallbacks are used when the page is opened some other way.
-const FALLBACK_OWNER = "maxf1234", FALLBACK_REPO = "website-watcher";
+const FALLBACK_OWNER = "maxf1234", FALLBACK_REPO = "All-Website-Watcher";
 const onPages = location.hostname.endsWith(".github.io");
 const OWNER = onPages ? location.hostname.split(".")[0] : FALLBACK_OWNER;
 const REPO = (onPages && location.pathname.split("/")[1]) || FALLBACK_REPO;

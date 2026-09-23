@@ -58,7 +58,7 @@ minutes/month, which a 5-minute schedule uses up in about a week.
 ### 3. Turn on the public page
 **Settings → Pages → Build and deployment**: Source **Deploy from a branch**,
 Branch **main**, folder **/docs** → Save. A minute later the page is live at
-`https://<your-username>.github.io/website-watcher/`.
+`https://<your-username>.github.io/All-Website-Watcher/`.
 
 ### 4. Make sure Issues and Actions are enabled
 Issues: **Settings → General → Features → Issues** is checked.
