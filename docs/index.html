@@ -32,6 +32,15 @@
   li a:hover { text-decoration:underline; }
   li small { color:var(--muted); display:block; }
   .empty { color:var(--muted); }
+  .ok { color:#1a7f37; }
+  button:disabled { opacity:.6; cursor:wait; }
+  li { display:flex; gap:12px; align-items:center; }
+  li .info { flex:1; min-width:0; }
+  li .remove { background:none; color:var(--muted); border:1px solid var(--line);
+               padding:6px 10px; font-size:13px; font-weight:500; }
+  li .remove:hover { color:#d33; border-color:#d33; }
+  .dot { display:inline-block; width:8px; height:8px; border-radius:50%; margin-right:6px; background:var(--muted); }
+  .dot.ok { background:#1a7f37; } .dot.down { background:#d33; }
 </style>
 </head>
 <body>
@@ -43,57 +52,76 @@
     <input id="url" type="text" inputmode="url" autocomplete="url" placeholder="https://example.com" required>
     <button type="submit">Watch</button>
   </form>
-  <p class="note" id="note">You'll finish on GitHub: click <b>Create</b> there and the site is added within a minute.</p>
+  <p class="note" id="note"></p>
 
   <h2>Watched websites (<span id="count">…</span>)</h2>
   <ul id="list"><li class="empty">Loading…</li></ul>
 </main>
 <script>
-// Owner and repo come from the Pages address (OWNER.github.io/REPO/); the
-// fallbacks are used when the page is opened some other way.
-const FALLBACK_OWNER = "maxf1234", FALLBACK_REPO = "All-Website-Watcher";
-const onPages = location.hostname.endsWith(".github.io");
-const OWNER = onPages ? location.hostname.split(".")[0] : FALLBACK_OWNER;
-const REPO = (onPages && location.pathname.split("/")[1]) || FALLBACK_REPO;
-
 const note = document.getElementById("note");
+const button = document.querySelector("#form button");
+const input = document.getElementById("url");
 
-document.getElementById("form").addEventListener("submit", (e) => {
-  e.preventDefault();
-  let raw = document.getElementById("url").value.trim();
-  if (!/^[a-z]+:\/\//i.test(raw)) raw = "https://" + raw;
-  let url;
-  try { url = new URL(raw); } catch { url = null; }
-  if (!url || !/^https?:$/.test(url.protocol) || !url.hostname.includes(".")) {
-    note.className = "note error";
-    note.textContent = "That doesn't look like a website link.";
-    return;
-  }
-  const issue = new URL(`https://github.com/${OWNER}/${REPO}/issues/new`);
-  issue.searchParams.set("template", "add-site.yml");
-  issue.searchParams.set("title", "Add website: " + url.href);
-  issue.searchParams.set("url", url.href);
-  note.className = "note";
-  note.innerHTML = "Opening GitHub… click <b>Create</b> there to finish.";
-  window.open(issue.href, "_blank", "noopener");
-});
-
-async function loadSites() {
-  const sources = [
-    `https://raw.githubusercontent.com/${OWNER}/${REPO}/HEAD/docs/sites.json?t=${Date.now()}`,
-    "sites.json",
-  ];
-  for (const src of sources) {
-    try {
-      const res = await fetch(src, { cache: "no-store" });
-      if (res.ok) return await res.json();
-    } catch {}
-  }
-  return null;
+function say(text, kind) {
+  note.className = "note" + (kind ? " " + kind : "");
+  note.textContent = text;
 }
 
-loadSites().then((sites) => {
+async function post(path, body) {
+  const res = await fetch(path, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(body),
+  });
+  const data = await res.json().catch(() => ({}));
+  if (!res.ok) throw new Error(data.error || "Something went wrong. Please try again.");
+  return data;
+}
+
+document.getElementById("form").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  button.disabled = true;
+  say("Checking the link…");
+  try {
+    const r = await post("api/add", { url: input.value });
+    say(`Added ${r.title ? "“" + r.title + "” " : ""}(${r.url}). ` +
+        (r.checking ? "The first check is running now." : "It will be checked within a few minutes."), "ok");
+    input.value = "";
+    loadSites();
+  } catch (err) {
+    say(err.message, "error");
+  } finally {
+    button.disabled = false;
+  }
+});
+
+async function removeSite(url, btn) {
+  let password = "";
+  try { password = sessionStorage.getItem("ww-pass") || ""; } catch {}
+  if (!password) password = prompt(`Password to stop watching ${url}:`) || "";
+  if (!password) return;
+  btn.disabled = true;
+  try {
+    await post("api/remove", { url, password });
+    try { sessionStorage.setItem("ww-pass", password); } catch {}
+    say(`Stopped watching ${url}.`, "ok");
+    loadSites();
+  } catch (err) {
+    try { sessionStorage.removeItem("ww-pass"); } catch {}
+    say(err.message, "error");
+    btn.disabled = false;
+  }
+}
+
+const STATE_TEXT = { ok: "Watching", down: "Not responding", pending: "Waiting for first check" };
+
+async function loadSites() {
   const list = document.getElementById("list");
+  let sites = null;
+  try {
+    const res = await fetch("api/sites", { cache: "no-store" });
+    if (res.ok) sites = await res.json();
+  } catch {}
   document.getElementById("count").textContent = sites ? sites.length : "?";
   list.replaceChildren();
   if (!sites || !sites.length) {
@@ -105,14 +133,25 @@ loadSites().then((sites) => {
   }
   for (const s of sites.slice().reverse()) {
     const li = document.createElement("li");
+    const info = document.createElement("div");
+    info.className = "info";
     const a = document.createElement("a");
     a.href = s.url; a.textContent = s.url; a.rel = "noopener nofollow"; a.target = "_blank";
     const meta = document.createElement("small");
-    meta.textContent = "Added " + (s.added || "");
-    li.append(a, meta);
+    const dot = document.createElement("span");
+    dot.className = "dot " + s.state;
+    meta.append(dot, `${STATE_TEXT[s.state] || ""} · added ${s.added || ""}` +
+      (s.lastChange ? ` · last change ${s.lastChange}` : ""));
+    info.append(a, meta);
+    const btn = document.createElement("button");
+    btn.className = "remove"; btn.type = "button"; btn.textContent = "Remove";
+    btn.addEventListener("click", () => removeSite(s.url, btn));
+    li.append(info, btn);
     list.append(li);
   }
-});
+}
+
+loadSites();
 </script>
 </body>
 </html>
