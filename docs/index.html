@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Website Watcher</title>
+<style>
+  :root { --bg:#f7f7f5; --card:#fff; --text:#1d1d1f; --muted:#6b6b70; --line:#e2e2e0; --accent:#2f6fec; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#141416; --card:#1e1e21; --text:#ececef; --muted:#9a9aa2; --line:#2e2e33; --accent:#6d9bff; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--text);
+         font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif; }
+  main { max-width:620px; margin:0 auto; padding:48px 16px; }
+  h1 { font-size:28px; margin:0 0 4px; }
+  p.lead { color:var(--muted); margin:0 0 28px; }
+  form { display:flex; gap:8px; flex-wrap:wrap; }
+  input { flex:1 1 260px; min-width:0; padding:12px 14px; font-size:16px; color:var(--text);
+          background:var(--card); border:1px solid var(--line); border-radius:8px; }
+  input:focus { outline:2px solid var(--accent); outline-offset:-1px; }
+  button { padding:12px 20px; font-size:16px; font-weight:600; color:#fff; background:var(--accent);
+           border:0; border-radius:8px; cursor:pointer; }
+  .note { color:var(--muted); font-size:14px; margin:10px 0 0; min-height:1.5em; }
+  .error { color:#d33; }
+  h2 { font-size:17px; margin:40px 0 10px; }
+  ul { list-style:none; padding:0; margin:0; background:var(--card);
+       border:1px solid var(--line); border-radius:8px; }
+  li { padding:10px 14px; border-top:1px solid var(--line); overflow-wrap:anywhere; }
+  li:first-child { border-top:0; }
+  li a { color:var(--text); text-decoration:none; }
+  li a:hover { text-decoration:underline; }
+  li small { color:var(--muted); display:block; }
+  .empty { color:var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Website Watcher</h1>
+  <p class="lead">Submit a website link. It gets checked every few minutes, and an email goes out whenever the page changes.</p>
+
+  <form id="form">
+    <input id="url" type="text" inputmode="url" autocomplete="url" placeholder="https://example.com" required>
+    <button type="submit">Watch</button>
+  </form>
+  <p class="note" id="note">You'll finish on GitHub: click <b>Create</b> there and the site is added within a minute.</p>
+
+  <h2>Watched websites (<span id="count">…</span>)</h2>
+  <ul id="list"><li class="empty">Loading…</li></ul>
+</main>
+<script>
+// Owner and repo come from the Pages address (OWNER.github.io/REPO/); the
+// fallbacks are used when the page is opened some other way.
+const FALLBACK_OWNER = "maxf1234", FALLBACK_REPO = "website-watcher";
+const onPages = location.hostname.endsWith(".github.io");
+const OWNER = onPages ? location.hostname.split(".")[0] : FALLBACK_OWNER;
+const REPO = (onPages && location.pathname.split("/")[1]) || FALLBACK_REPO;
+
+const note = document.getElementById("note");
+
+document.getElementById("form").addEventListener("submit", (e) => {
+  e.preventDefault();
+  let raw = document.getElementById("url").value.trim();
+  if (!/^[a-z]+:\/\//i.test(raw)) raw = "https://" + raw;
+  let url;
+  try { url = new URL(raw); } catch { url = null; }
+  if (!url || !/^https?:$/.test(url.protocol) || !url.hostname.includes(".")) {
+    note.className = "note error";
+    note.textContent = "That doesn't look like a website link.";
+    return;
+  }
+  const issue = new URL(`https://github.com/${OWNER}/${REPO}/issues/new`);
+  issue.searchParams.set("template", "add-site.yml");
+  issue.searchParams.set("title", "Add website: " + url.href);
+  issue.searchParams.set("url", url.href);
+  note.className = "note";
+  note.innerHTML = "Opening GitHub… click <b>Create</b> there to finish.";
+  window.open(issue.href, "_blank", "noopener");
+});
+
+async function loadSites() {
+  const sources = [
+    `https://raw.githubusercontent.com/${OWNER}/${REPO}/HEAD/docs/sites.json?t=${Date.now()}`,
+    "sites.json",
+  ];
+  for (const src of sources) {
+    try {
+      const res = await fetch(src, { cache: "no-store" });
+      if (res.ok) return await res.json();
+    } catch {}
+  }
+  return null;
+}
+
+loadSites().then((sites) => {
+  const list = document.getElementById("list");
+  document.getElementById("count").textContent = sites ? sites.length : "?";
+  list.replaceChildren();
+  if (!sites || !sites.length) {
+    const li = document.createElement("li");
+    li.className = "empty";
+    li.textContent = sites ? "Nothing yet. Add the first one above." : "Couldn't load the list.";
+    list.append(li);
+    return;
+  }
+  for (const s of sites.slice().reverse()) {
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    a.href = s.url; a.textContent = s.url; a.rel = "noopener nofollow"; a.target = "_blank";
+    const meta = document.createElement("small");
+    meta.textContent = "Added " + (s.added || "");
+    li.append(a, meta);
+    list.append(li);
+  }
+});
+</script>
+</body>
+</html>

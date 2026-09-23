@@ -1,0 +1,69 @@
+name: Handle website submission
+# Runs when someone submits a link on the website (which opens a GitHub issue).
+on:
+  issues:
+    types: [opened]
+permissions:
+  contents: write
+  issues: write
+  actions: write
+concurrency:
+  group: submissions
+  cancel-in-progress: false
+jobs:
+  submit:
+    # Only issues created from one of the two forms in .github/ISSUE_TEMPLATE.
+    if: contains(github.event.issue.body, '### Website URL')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Update the watch list
+        id: update
+        env:
+          # Anyone can add a site; only the repo owner/collaborators can remove one.
+          ACTION: ${{ contains(github.event.issue.body, '### Website URL to remove') && 'remove' || 'add' }}
+          ALLOWED: ${{ !contains(github.event.issue.body, '### Website URL to remove') || contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.issue.author_association) }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+          MAX_SITES: ${{ vars.MAX_SITES }}
+        run: |
+          if [ "$ALLOWED" != "true" ]; then
+            echo "Only the owner of this project can remove sites." > result.txt
+            code=2
+          else
+            set +e
+            python manage_sites.py > result.txt
+            code=$?
+            set -e
+          fi
+          cat result.txt
+          echo "changed=$([ "$code" = 0 ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
+          [ "$code" = 0 ] || [ "$code" = 2 ]
+      - name: Save the watch list
+        if: steps.update.outputs.changed == 'true'
+        run: |
+          git config user.name "website-watcher bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/sites.json
+          git commit -m "sites: $(cat result.txt)"
+          for i in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push && break
+            [ "$i" = 3 ] && exit 1
+            sleep $((i * 5))
+          done
+          # Check straight away so the new site gets its baseline (and you get a
+          # "Now watching" email) without waiting for the next scheduled run.
+          gh workflow run check.yml --ref "${GITHUB_REF_NAME}"
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Reply and close the issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE: ${{ github.event.issue.number }}
+        run: |
+          [ -s result.txt ] || echo "Something went wrong; see the Actions log." > result.txt
+          gh issue close "$ISSUE" --repo "$GITHUB_REPOSITORY" --comment "$(cat result.txt)"

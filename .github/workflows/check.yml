@@ -1,0 +1,48 @@
+name: Check websites
+on:
+  schedule:
+    - cron: '*/5 * * * *'   # every 5 minutes: the most often GitHub allows (runs can be delayed)
+  workflow_dispatch:        # "Run workflow" button, and used right after a site is added
+  repository_dispatch:      # optional: lets an outside scheduler trigger extra checks
+    types: [check]
+permissions:
+  contents: write
+concurrency:
+  group: check-websites
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python check.py
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      - name: Save snapshots
+        run: |
+          git config user.name "website-watcher bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add snapshots/
+          if ! git diff --staged --quiet; then
+            git commit -m "snapshot: update [skip ci]"
+          elif [ $(( $(date +%s) - $(git log -1 --format=%ct) )) -gt $((45*86400)) ]; then
+            # GitHub pauses scheduled workflows after 60 days without commits.
+            date -u > snapshots/.heartbeat
+            git add snapshots/.heartbeat
+            git commit -m "heartbeat: keep schedule alive [skip ci]"
+          else
+            exit 0
+          fi
+          for i in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push && exit 0
+            sleep $((i * 5))
+          done
+          exit 1
