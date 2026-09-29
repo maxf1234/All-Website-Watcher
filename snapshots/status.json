@@ -10,6 +10,11 @@
     "failures": 0,
     "url": "https://neilyoungnews.thrasherswheat.org/?m=1"
   },
+  "phishrumors.com-eb2dd85f5b": {
+    "down": false,
+    "failures": 0,
+    "url": "https://phishrumors.com/"
+  },
   "rosslakeresort.com-d11e6aa517": {
     "down": false,
     "failures": 0,
@@ -19,7 +24,7 @@
   "www.hodinkee.com-dd8c17120c": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-09-29 01:34 UTC",
+    "last_change": "2026-09-29 14:18 UTC",
     "url": "https://www.hodinkee.com/"
   },
   "www.newyorker.com-3845497ef1": {
