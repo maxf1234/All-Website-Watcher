@@ -7,7 +7,7 @@
   },
   "neilyoungnews.thrasherswheat.org-c450d68b26": {
     "down": false,
-    "failures": 0,
+    "failures": 1,
     "url": "https://neilyoungnews.thrasherswheat.org/?m=1"
   },
   "phishrumors.com-eb2dd85f5b": {
@@ -24,7 +24,7 @@
   "www.hodinkee.com-dd8c17120c": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-09-29 19:29 UTC",
+    "last_change": "2026-09-29 23:08 UTC",
     "url": "https://www.hodinkee.com/"
   },
   "www.newyorker.com-3845497ef1": {
