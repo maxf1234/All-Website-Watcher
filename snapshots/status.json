@@ -7,7 +7,7 @@
   },
   "neilyoungnews.thrasherswheat.org-c450d68b26": {
     "down": false,
-    "failures": 0,
+    "failures": 1,
     "last_change": "2026-10-04 23:08 UTC",
     "url": "https://neilyoungnews.thrasherswheat.org/?m=1"
   },
@@ -25,7 +25,7 @@
   "www.hodinkee.com-dd8c17120c": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-04 00:43 UTC",
+    "last_change": "2026-10-05 01:59 UTC",
     "url": "https://www.hodinkee.com/"
   },
   "www.newyorker.com-3845497ef1": {
