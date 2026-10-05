@@ -20,6 +20,10 @@ Open Navigation Menu
 [image: Nick Paumgarten head shot - The New Yorker]
 Nick Paumgarten
 Nick Paumgarten has been a staff writer at The New Yorker since 2005. Prior to that, he was an editor of the Talk of the Town. He has reported on a wide range of subjects, including hockey , politics , finance , art , music , food , technology , mountaineering , sports-talk radio , elevators , boxer-bartenders , commuters , and canoes . He is the author of “ The Intangibles: Friendship, Fatherhood, and the Love of the Game ” (November, 2026).
+In the Clubs
+Ellen Allien’s Hill of Sound
+On a trip to the Cooper Hewitt museum, the techno d.j. reflects on her latest album, “New Life,” and on how Michael Jackson and ABBA haunted her Berlin childhood.
+October 5, 2026
 Personal History
 Hockey Dads and Hockey Sons
 Parenting is a practice. You learn from your mistakes and then repeat them anyway.
@@ -95,10 +99,6 @@ Letter from Las Vegas
 Reckoning with the Dead at the Sphere
 A run of lost Las Vegas weekends for Deadheads prompts a longtime fan to wrestle with what the band has left behind.
 July 22, 2024
-At the Festivals
-The Art of the Dibs
-An attendee with a balky back at the Solid Sound music festival seeks Jeff Tweedy’s counsel on joint replacements and the ethics of claiming viewing space with a folding chair.
-July 15, 2024
 More Stories
 Sections
 Crossword
@@ -173,7 +173,6 @@ LINKS:
   https://www.newyorker.com/magazine/2016/08/29/damon-baehrel-the-most-exclusive-restaurant-in-america
   https://www.newyorker.com/magazine/2018/04/23/a-voyage-along-trumps-wall
   https://www.newyorker.com/magazine/2018/10/22/the-prophets-of-cryptocurrency-survey-the-boom-and-bust
-  https://www.newyorker.com/magazine/2024/07/22/the-art-of-the-dibs
   https://www.newyorker.com/magazine/2024/07/29/reckoning-with-the-dead-at-the-sphere
   https://www.newyorker.com/magazine/2024/10/14/bob-marleys-accidental-photographer
   https://www.newyorker.com/magazine/2024/11/04/conjuring-the-worst-case
@@ -192,6 +191,7 @@ LINKS:
   https://www.newyorker.com/magazine/2026/06/15/kurt-vile-gets-the-feeling
   https://www.newyorker.com/magazine/2026/08/10/robb-moss-is-still-going-with-the-flow
   https://www.newyorker.com/magazine/2026/10/05/hockey-dads-and-hockey-sons
+  https://www.newyorker.com/magazine/2026/10/12/ellen-alliens-hill-of-sound
   https://www.newyorker.com/news
   https://www.newyorker.com/newsletter
   https://www.newyorker.com/newsletter/the-daily/the-humans-teaching-birds-to-migrate
