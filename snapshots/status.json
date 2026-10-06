@@ -7,7 +7,7 @@
   },
   "neilyoungnews.thrasherswheat.org-c450d68b26": {
     "down": false,
-    "failures": 1,
+    "failures": 0,
     "last_change": "2026-10-06 16:42 UTC",
     "url": "https://neilyoungnews.thrasherswheat.org/?m=1"
   },
@@ -35,7 +35,7 @@
   "www.hodinkee.com-dd8c17120c": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-06 16:42 UTC",
+    "last_change": "2026-10-06 17:40 UTC",
     "url": "https://www.hodinkee.com/"
   },
   "www.newyorker.com-3845497ef1": {
@@ -48,5 +48,10 @@
     "down": false,
     "failures": 0,
     "url": "https://www.unitedcardevents.com/"
+  },
+  "www.visitspacecoast.com-8ce6c8518b": {
+    "down": false,
+    "failures": 0,
+    "url": "https://www.visitspacecoast.com/launches/"
   }
 }
