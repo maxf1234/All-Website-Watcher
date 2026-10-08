@@ -64,10 +64,10 @@ November 29, 2026
 Falcon 9 Block 5 | Cygnus CRS-2 NG-25
 This is the 25th flight of the Orbital ATK’s uncrewed resupply spacecraft Cygnus and its 24th flight to the International Space Station under the Commercial Resupply Services contract with NASA.
 December 30, 2026
-Falcon 9 Block 5 | 5x Astranis MicroGEO
-Five Astranis MicroGEO communications satellite to be inserted in a custom geostationary orbit, from where they conduct on-orbit maneuvers to reach their individual slots. The 5 satellites include: * Apco 1 & Apco 2 (Mexico) * Thaicom-9 (Thailand) * 1x for Orbith (Argentina) * 1x for Orbits Corp (Philippines)
-Vulcan | USSF-23
-Classified payload for the US Space Force.
+Vulcan | USSF-112
+Classified payload for the US Space Force
+Falcon 9 Block 5 | Telesat Lightspeed 5
+Up to 18 satellites manufactured by MDA for Canadian satellite operator Telesat’s Lightspeed constellation.
 Upcoming Launches
 With NASA, SpaceX, and United Launch Alliance sending rockets to the stars, your chance of catching a launch on your next Space Coast getaway are highly likely.
 This page is automatically updated throughout the day. Download the "Space Coast Launches" app today for the most up to date launch details, live videos, and more information.
@@ -97,12 +97,13 @@ NASA’s Artemis Program
 Explore Artemis
 Artemis – Book Your Trip
 Space Coast Launches App
-Are you obsessed with space? Download our Space Coast Launches App to watch a live stream of every rocket launched from Kennedy Space Center & Cape Canaveral AFS, Florida.
-Locate the exact spot on the horizon to watch during a live rocket launch using the Compass feature.
-Countdown every second with real-time launch clock on the main screen.
-Keep track of upcoming missions including current launch schedule, in-depth mission plans and rocket details.
+Ready to see a rocket launch? Let’s make sure you know when and where to look up. Download the Space Coast Launches App and plan your launch-day experience on Florida’s Space Coast.
+See what’s launching next. Check upcoming launch schedules to help plan your Space Coast visit.
+Explore the mission. Learn about the rocket and its mission before the countdown reaches zero.
+Get a heads-up. Receive notifications at T-minus 2 hours and T-minus 5 minutes, then count down with the real-time launch clock.
+Find your spot. Pick from local favorite places for the best rocket launch views with the interactive launch viewing map.
+Look toward liftoff. Use the compass feature to point yourself toward the launchpad.
 [image: Apple App] [image: Google App]
-[image: Phones]
 Launch Viewing Venues
 3 Unexpected Ways to Experience a Rocket Launch
 Make Your Launch Viewing Experience Special Rocket launches have drawn visitors to the Space Coast for decades. With SpaceX, ULA, and NASA booking launch pads on an almost weekly basis, seeing a launch while you’re vacationing on the Space Coast is a high probability. While you know about going to Kennedy...
@@ -150,7 +151,7 @@ Submit Your Business
 Submit an Event
 Events Calendar
 Privacy Policy © 2026
-Brevard County Tourism Development Office| | Copyright Florida’s Space Coast Office of Tourism All Rights Reserved
+Brevard County Tourism Development Office | Copyright Florida’s Space Coast Office of Tourism All Rights Reserved
 Item Added to Itinerary
 My Planner
 Share My Itinerary
