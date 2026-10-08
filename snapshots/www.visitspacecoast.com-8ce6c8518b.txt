@@ -52,11 +52,12 @@ October 13, 2026
 Falcon 9 Block 5 | Dragon CRS-2 SpX-35
 Status: Go
 35th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA. Cargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.
-October 30, 2026
+October 28, 2026
 8:00 PM
 Vulcan VC6L | Amazon Leo (LV-01)
 Status: TBD
 Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected…
+October 30, 2026
 Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)
 Dedicated rideshare flight to a mid-inclination orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.
 November 29, 2026
@@ -64,10 +65,10 @@ November 29, 2026
 Falcon 9 Block 5 | Cygnus CRS-2 NG-25
 This is the 25th flight of the Orbital ATK’s uncrewed resupply spacecraft Cygnus and its 24th flight to the International Space Station under the Commercial Resupply Services contract with NASA.
 December 30, 2026
-Vulcan | USSF-112
-Classified payload for the US Space Force
-Falcon 9 Block 5 | Telesat Lightspeed 5
-Up to 18 satellites manufactured by MDA for Canadian satellite operator Telesat’s Lightspeed constellation.
+Falcon 9 Block 5 | Globalstar 2-R Mission 2 (x 8)
+The Globalstar global mobile communications network offers global, digital real time voice, data and fax services via its Low Earth Orbit satellite constellation. The constellation operates in a 1410 km orbit inclined at 52 degrees. In early 2022, Globalstar contracted with MDA for the construction of 17 new 2nd generation…
+Vulcan | NROL-64
+Classified payload for the US National Reconnaissance Office
 Upcoming Launches
 With NASA, SpaceX, and United Launch Alliance sending rockets to the stars, your chance of catching a launch on your next Space Coast getaway are highly likely.
 This page is automatically updated throughout the day. Download the "Space Coast Launches" app today for the most up to date launch details, live videos, and more information.
@@ -103,6 +104,7 @@ Explore the mission. Learn about the rocket and its mission before the countdown
 Get a heads-up. Receive notifications at T-minus 2 hours and T-minus 5 minutes, then count down with the real-time launch clock.
 Find your spot. Pick from local favorite places for the best rocket launch views with the interactive launch viewing map.
 Look toward liftoff. Use the compass feature to point yourself toward the launchpad.
+Follow along from anywhere. Watch live video feeds, when available, even if you can’t be here in person.
 [image: Apple App] [image: Google App]
 Launch Viewing Venues
 3 Unexpected Ways to Experience a Rocket Launch
