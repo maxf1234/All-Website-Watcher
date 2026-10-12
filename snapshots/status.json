@@ -7,7 +7,7 @@
   },
   "neilyoungnews.thrasherswheat.org-c450d68b26": {
     "down": true,
-    "failures": 7,
+    "failures": 8,
     "last_change": "2026-10-10 18:08 UTC",
     "url": "https://neilyoungnews.thrasherswheat.org/?m=1"
   },
@@ -31,7 +31,7 @@
   "wilcoworld.net-913ea3bc84": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-12 01:08 UTC",
+    "last_change": "2026-10-12 23:24 UTC",
     "url": "https://wilcoworld.net/shows/"
   },
   "www.hodinkee.com-dd8c17120c": {
@@ -54,7 +54,7 @@
   "www.visitspacecoast.com-8ce6c8518b": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-12 16:51 UTC",
+    "last_change": "2026-10-12 23:24 UTC",
     "url": "https://www.visitspacecoast.com/launches/"
   }
 }
