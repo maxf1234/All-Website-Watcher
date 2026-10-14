@@ -7,7 +7,7 @@
   },
   "neilyoungnews.thrasherswheat.org-c450d68b26": {
     "down": true,
-    "failures": 5,
+    "failures": 6,
     "last_change": "2026-10-13 11:10 UTC",
     "url": "https://neilyoungnews.thrasherswheat.org/?m=1"
   },
@@ -37,13 +37,13 @@
   "www.hodinkee.com-dd8c17120c": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-14 01:42 UTC",
+    "last_change": "2026-10-14 17:32 UTC",
     "url": "https://www.hodinkee.com/"
   },
   "www.newyorker.com-3845497ef1": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-08 06:00 UTC",
+    "last_change": "2026-10-14 17:32 UTC",
     "url": "https://www.newyorker.com/contributors/nick-paumgarten"
   },
   "www.unitedcardevents.com-ad5258fec1": {
@@ -54,7 +54,7 @@
   "www.visitspacecoast.com-8ce6c8518b": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-14 12:28 UTC",
+    "last_change": "2026-10-14 17:32 UTC",
     "url": "https://www.visitspacecoast.com/launches/"
   }
 }
