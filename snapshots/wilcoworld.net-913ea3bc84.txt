@@ -57,16 +57,16 @@ Chicago, IL - Chicago Theatre
 Wilco Winterlude 2026
 request song
 info
-Tickets
+Sold Out
 12.05.2026
 12.07.2026
 Chicago, IL - Thalia Hall
 Chicago: We are offering a limited in-person onsale on Friday, October 16 at 10:00 AM CT at the Thalia Hall box office, 1807 S Allport St.
-Sold Out
 12.08.2026
 03.25.2027
 Marrakech, Morocco - March 25, 26, 27, 2027
 www.wilcoinmorocco.com
+Tickets
 06.18.2027
 Vitoria-Gasteiz, Spain - Azkena Rock Festival
 www.azkenarockfestival.com
@@ -985,6 +985,4 @@ LINKS:
   https://www.cayamo.com/presale/
   https://www.etix.com/ticket/p/40027463/jeff-tweedy-woodstock-bearsville-theater
   https://www.etix.com/ticket/p/99710988/jeff-tweedy-woodstock-bearsville-theater
-  https://www.ticketmaster.com/event/0700652A9CF947F5
-  https://www.ticketmaster.com/event/0700652A9CFF4803
   https://www.watervillecreates.org/shows/jeff-tweedy/
