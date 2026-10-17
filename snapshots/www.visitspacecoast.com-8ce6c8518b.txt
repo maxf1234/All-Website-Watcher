@@ -62,11 +62,12 @@ November 29, 2026
 Falcon 9 Block 5 | Cygnus CRS-2 NG-25
 This is the 25th flight of the Orbital ATK’s uncrewed resupply spacecraft Cygnus and its 24th flight to the International Space Station under the Commercial Resupply Services contract with NASA.
 December 30, 2026
-Falcon 9 Block 5 | SDA Tranche 2 Tracking Layer B
-Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Tracking Layer.
-Vulcan | USSF-25
-Payload is the Defense Advanced Research Projects Agency’s (DARPA) Demonstration Rocket for Agile Cislunar Operations (DRACO) nuclear thermal spacecraft.
-Falcon 9 Block 5 | SDA Tranche 2 Tracking Layer A
+Vulcan | NROL-64
+Classified payload for the US National Reconnaissance Office
+Falcon 9 Block 5 | Telesat Lightspeed 3
+Up to 18 satellites manufactured by MDA for Canadian satellite operator Telesat’s Lightspeed constellation.
+Falcon 9 Block 5 | Cygnus CRS-2 NG-22
+This is the 25th flight of the Orbital ATK’s uncrewed resupply spacecraft Cygnus and its 24th flight to the International Space Station under the Commercial Resupply Services contract with NASA. The NG-22 Cygnus spacecraft was damaged during transport to Cape Canaveral in March 2025 and was shipped back to factory…
 Upcoming Launches
 With NASA, SpaceX, and United Launch Alliance sending rockets to the stars, your chance of catching a launch on your next Space Coast getaway are highly likely.
 This page is automatically updated throughout the day. Download the "Space Coast Launches" app today for the most up to date launch details, live videos, and more information.
