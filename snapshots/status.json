@@ -42,7 +42,7 @@
   "www.hodinkee.com-dd8c17120c": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-20 01:51 UTC",
+    "last_change": "2026-10-20 12:35 UTC",
     "url": "https://www.hodinkee.com/"
   },
   "www.newyorker.com-3845497ef1": {
@@ -59,7 +59,7 @@
   "www.visitspacecoast.com-8ce6c8518b": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-20 06:55 UTC",
+    "last_change": "2026-10-20 12:35 UTC",
     "url": "https://www.visitspacecoast.com/launches/"
   }
 }
