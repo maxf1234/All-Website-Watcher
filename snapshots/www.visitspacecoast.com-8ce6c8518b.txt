@@ -50,7 +50,7 @@ Scroll to App Section
 October 20, 2026
 7:04 AM
 Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)
-Status: In Flight
+Status: Success
 Dedicated rideshare flight to a mid-inclination orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.
 October 28, 2026
 8:00 PM
@@ -62,12 +62,11 @@ November 29, 2026
 Falcon 9 Block 5 | Cygnus CRS-2 NG-25
 This is the 25th flight of the Orbital ATK’s uncrewed resupply spacecraft Cygnus and its 24th flight to the International Space Station under the Commercial Resupply Services contract with NASA.
 December 30, 2026
-Vulcan | NROL-64
-Classified payload for the US National Reconnaissance Office
-Terran R | Intelsat-1
-First mission part of a multi-year, multi-launch agreement signed between Intelsat and Relativity Space in 2023.
-Falcon 9 Block 5 | Telesat Lightspeed 3
-Up to 18 satellites manufactured by MDA for Canadian satellite operator Telesat’s Lightspeed constellation.
+Vulcan | USSF-43
+Classified payload for the US Space Force.
+Falcon Heavy | USSF-75
+Classified payload for the United States Space Force
+Vulcan | USSF-16
 Upcoming Launches
 With NASA, SpaceX, and United Launch Alliance sending rockets to the stars, your chance of catching a launch on your next Space Coast getaway are highly likely.
 This page is automatically updated throughout the day. Download the "Space Coast Launches" app today for the most up to date launch details, live videos, and more information.
@@ -77,7 +76,6 @@ Download the Space Coast Launches App
 October 1, 2026
 11:10 AM
 Falcon 9 Block 5 | Crew-13
-Status: Success
 SpaceX Crew-13 is the thirteenth crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA’s Commercial Crew Program.
 Featured Launches
 Crewed Space Flight, Moon shots, and more these are the major launches you'll want to keep your eyes on.
