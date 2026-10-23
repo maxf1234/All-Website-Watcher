@@ -57,14 +57,14 @@ November 29, 2026
 Falcon 9 Block 5 | Cygnus CRS-2 NG-25
 This is the 25th flight of the Orbital ATK’s uncrewed resupply spacecraft Cygnus and its 24th flight to the International Space Station under the Commercial Resupply Services contract with NASA.
 December 30, 2026
-Falcon 9 Block 5 | Globalstar 2-R Mission 2 (x 8)
-The Globalstar global mobile communications network offers global, digital real time voice, data and fax services via its Low Earth Orbit satellite constellation. The constellation operates in a 1410 km orbit inclined at 52 degrees. In early 2022, Globalstar contracted with MDA for the construction of 17 new 2nd generation…
-Falcon 9 Block 5 | Telesat Lightspeed 1
-First two satellites manufactured by MDA for Canadian satellite operator Telesat’s Lightspeed constellation.
-Vulcan | NROL-64
-Classified payload for the US National Reconnaissance Office
-New Glenn | BlueBird Block 2
-AST SpaceMobile’s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak…
+Vulcan | USSF-112
+Classified payload for the US Space Force
+Falcon 9 Block 5 | Telesat Lightspeed 4
+Up to 18 satellites manufactured by MDA for Canadian satellite operator Telesat’s Lightspeed constellation.
+Vulcan | USSF-43
+Classified payload for the US Space Force.
+New Glenn | Blue Ring-1
+The first mission of Blue Ring, Blue Origin’s all-in-one, high-powered hybrid solar electric and chemical propelled spacecraft, will test the spacecraft’s operations in Geostationary Transfer Orbit (GTO), as well as subsequent operations after reaching Geostationary Orbit (GEO). It will carry one of Scout Space’s flagship next-generation space domain awareness (SDA)…
 Upcoming Launches
 With NASA, SpaceX, and United Launch Alliance sending rockets to the stars, your chance of catching a launch on your next Space Coast getaway are highly likely.
 This page is automatically updated throughout the day. Download the "Space Coast Launches" app today for the most up to date launch details, live videos, and more information.
