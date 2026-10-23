@@ -12,7 +12,7 @@
   },
   "neilyoungnews.thrasherswheat.org-c450d68b26": {
     "down": false,
-    "failures": 1,
+    "failures": 0,
     "last_change": "2026-10-22 18:52 UTC",
     "url": "https://neilyoungnews.thrasherswheat.org/?m=1"
   },
@@ -59,7 +59,7 @@
   "www.visitspacecoast.com-8ce6c8518b": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-23 00:35 UTC",
+    "last_change": "2026-10-23 10:15 UTC",
     "url": "https://www.visitspacecoast.com/launches/"
   }
 }
