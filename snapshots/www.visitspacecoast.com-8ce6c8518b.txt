@@ -45,26 +45,24 @@ Youtube
 Pinterest
 Get the best views
 Space Coast’s Next Launch Attempt
-Vulcan VC6L | Amazon Leo (LV-01) Moved to: 10/28/2026
+Falcon 9 Block 5 | Cygnus CRS-2 NG-25 Moved to: 11/29/2026
 Scroll to App Section
-October 28, 2026
-8:00 PM
-Vulcan VC6L | Amazon Leo (LV-01)
-Status: TBD
-Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected…
 November 29, 2026
 7:00 PM
 Falcon 9 Block 5 | Cygnus CRS-2 NG-25
+Status: TBD
 This is the 25th flight of the Orbital ATK’s uncrewed resupply spacecraft Cygnus and its 24th flight to the International Space Station under the Commercial Resupply Services contract with NASA.
+Vulcan VC6L | Amazon Leo (LV-01)
+Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected…
 December 30, 2026
-Vulcan VC4L | Dream Chaser CRS 2 Flight 1
-First flight of the Dream Chaser Spaceplane, on a free-flying mission in Low Earth Orbit.
-Vulcan | USSF-23
-Classified payload for the US Space Force.
-Falcon 9 Block 5 | 5x Astranis MicroGEO
-Five Astranis MicroGEO communications satellite to be inserted in a custom geostationary orbit, from where they conduct on-orbit maneuvers to reach their individual slots. The 5 satellites include: * Apco 1 & Apco 2 (Mexico) * Thaicom-9 (Thailand) * 1x for Orbith (Argentina) * 1x for Orbits Corp (Philippines)
-Terran R | Mars Lander
-Impulse Space’s Mars Lander is designed to support research and development needed for human exploration of Mars.
+Atlas V N22 | Starliner-1
+Starliner-1 is the first operational flight of a Starliner spacecraft to the International Space Station as part of NASA’s Commercial Crew Program. Due to problems with the Starliner spacecraft’s RCS attitude control system during the Crew Flight Test mission in 2024, this mission has been re-scoped to not carry a…
+Vulcan | USSF-25
+Payload is the Defense Advanced Research Projects Agency’s (DARPA) Demonstration Rocket for Agile Cislunar Operations (DRACO) nuclear thermal spacecraft.
+Falcon 9 Block 5 | SDA Tranche 2 Tracking Layer B
+Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Tracking Layer.
+Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D
+Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer.
 Upcoming Launches
 With NASA, SpaceX, and United Launch Alliance sending rockets to the stars, your chance of catching a launch on your next Space Coast getaway are highly likely.
 This page is automatically updated throughout the day. Download the "Space Coast Launches" app today for the most up to date launch details, live videos, and more information.
