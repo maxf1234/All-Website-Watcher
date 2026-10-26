@@ -42,7 +42,7 @@
   "www.hodinkee.com-dd8c17120c": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-26 10:22 UTC",
+    "last_change": "2026-10-26 16:50 UTC",
     "url": "https://www.hodinkee.com/"
   },
   "www.newyorker.com-3845497ef1": {
@@ -53,7 +53,7 @@
   },
   "www.unitedcardevents.com-ad5258fec1": {
     "down": false,
-    "failures": 1,
+    "failures": 0,
     "url": "https://www.unitedcardevents.com/"
   },
   "www.visitspacecoast.com-8ce6c8518b": {
