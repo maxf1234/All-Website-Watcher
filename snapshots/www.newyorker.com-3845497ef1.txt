@@ -20,6 +20,10 @@ Open Navigation Menu
 [image: Nick Paumgarten head shot - The New Yorker]
 Nick Paumgarten
 Nick Paumgarten has been a staff writer at The New Yorker since 2005. Prior to that, he was an editor of the Talk of the Town. He has reported on a wide range of subjects, including hockey , politics , finance , art , music , food , technology , mountaineering , sports-talk radio , elevators , boxer-bartenders , commuters , and canoes . He is the author of “ The Intangibles: Friendship, Fatherhood, and the Love of the Game ” (November, 2026).
+Profiles
+How Jim Morrison Surmounted Tragedy and Skied Down Everest
+The mountaineer and his partner, Hilaree Nelson, planned a first-ever descent. After her death, he pushed on.
+October 26, 2026
 In the Clubs
 Ellen Allien’s Hill of Sound
 On a trip to the Cooper Hewitt museum, the techno d.j. reflects on her latest album, “New Life,” and on how Michael Jackson and ABBA haunted her Berlin childhood.
@@ -95,10 +99,6 @@ Being There
 Bob Marley’s Accidental Photographer
 Lee Jaffe, the musician’s friend, fixer, and collaborator, recalls falling in with the Wailers and compiling his new book, “Hit Me with Music.”
 October 7, 2024
-Letter from Las Vegas
-Reckoning with the Dead at the Sphere
-A run of lost Las Vegas weekends for Deadheads prompts a longtime fan to wrestle with what the band has left behind.
-July 22, 2024
 More Stories
 Sections
 Crossword
@@ -174,7 +174,6 @@ LINKS:
   https://www.newyorker.com/magazine/2016/08/29/damon-baehrel-the-most-exclusive-restaurant-in-america
   https://www.newyorker.com/magazine/2018/04/23/a-voyage-along-trumps-wall
   https://www.newyorker.com/magazine/2018/10/22/the-prophets-of-cryptocurrency-survey-the-boom-and-bust
-  https://www.newyorker.com/magazine/2024/07/29/reckoning-with-the-dead-at-the-sphere
   https://www.newyorker.com/magazine/2024/10/14/bob-marleys-accidental-photographer
   https://www.newyorker.com/magazine/2024/11/04/conjuring-the-worst-case
   https://www.newyorker.com/magazine/2025/02/17/the-long-flight-to-teach-an-endangered-ibis-species-to-migrate
@@ -193,6 +192,7 @@ LINKS:
   https://www.newyorker.com/magazine/2026/08/10/robb-moss-is-still-going-with-the-flow
   https://www.newyorker.com/magazine/2026/10/05/hockey-dads-and-hockey-sons
   https://www.newyorker.com/magazine/2026/10/12/ellen-alliens-hill-of-sound
+  https://www.newyorker.com/magazine/2026/11/02/how-jim-morrison-surmounted-tragedy-and-skied-down-everest
   https://www.newyorker.com/news
   https://www.newyorker.com/newsletter
   https://www.newyorker.com/newsletter/the-daily/the-humans-teaching-birds-to-migrate

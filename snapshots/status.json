@@ -42,18 +42,18 @@
   "www.hodinkee.com-dd8c17120c": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-26 04:22 UTC",
+    "last_change": "2026-10-26 10:22 UTC",
     "url": "https://www.hodinkee.com/"
   },
   "www.newyorker.com-3845497ef1": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-14 17:32 UTC",
+    "last_change": "2026-10-26 10:22 UTC",
     "url": "https://www.newyorker.com/contributors/nick-paumgarten"
   },
   "www.unitedcardevents.com-ad5258fec1": {
     "down": false,
-    "failures": 0,
+    "failures": 1,
     "url": "https://www.unitedcardevents.com/"
   },
   "www.visitspacecoast.com-8ce6c8518b": {
