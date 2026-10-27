@@ -1,7 +1,7 @@
 {
   "eelstheband.com-8cabdd41c6": {
     "down": false,
-    "failures": 1,
+    "failures": 0,
     "url": "https://eelstheband.com/tourdates/"
   },
   "katmailand.com-74ab02a635": {
@@ -36,7 +36,7 @@
   "wilcoworld.net-913ea3bc84": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-27 00:34 UTC",
+    "last_change": "2026-10-27 05:33 UTC",
     "url": "https://wilcoworld.net/shows/"
   },
   "www.hodinkee.com-dd8c17120c": {
@@ -48,7 +48,7 @@
   "www.newyorker.com-3845497ef1": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-26 10:22 UTC",
+    "last_change": "2026-10-27 05:33 UTC",
     "url": "https://www.newyorker.com/contributors/nick-paumgarten"
   },
   "www.unitedcardevents.com-ad5258fec1": {
@@ -59,7 +59,7 @@
   "www.visitspacecoast.com-8ce6c8518b": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-27 00:34 UTC",
+    "last_change": "2026-10-27 05:33 UTC",
     "url": "https://www.visitspacecoast.com/launches/"
   }
 }
