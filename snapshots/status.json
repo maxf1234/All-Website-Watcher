@@ -1,7 +1,7 @@
 {
   "eelstheband.com-8cabdd41c6": {
     "down": false,
-    "failures": 0,
+    "failures": 1,
     "url": "https://eelstheband.com/tourdates/"
   },
   "katmailand.com-74ab02a635": {
@@ -36,13 +36,13 @@
   "wilcoworld.net-913ea3bc84": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-25 16:45 UTC",
+    "last_change": "2026-10-27 00:34 UTC",
     "url": "https://wilcoworld.net/shows/"
   },
   "www.hodinkee.com-dd8c17120c": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-26 16:50 UTC",
+    "last_change": "2026-10-27 00:34 UTC",
     "url": "https://www.hodinkee.com/"
   },
   "www.newyorker.com-3845497ef1": {
@@ -59,7 +59,7 @@
   "www.visitspacecoast.com-8ce6c8518b": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-26 21:15 UTC",
+    "last_change": "2026-10-27 00:34 UTC",
     "url": "https://www.visitspacecoast.com/launches/"
   }
 }
