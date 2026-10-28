@@ -69,8 +69,6 @@ Tickets
 Vitoria-Gasteiz, Spain - Azkena Rock Festival
 www.azkenarockfestival.com
 jeff tweedy solo tourdates
-10.20.2026
-Three Oaks, MI - The Acorn
 10.21.2026
 Kent, OH - The Kent Stage
 10.23.2026
@@ -964,7 +962,6 @@ LINKS:
   https://wilcoworld.net/tour_date_type/18-june-2027-vitoria-gasteiz-es-azkena-rock-festival/
   https://wilcoworld.net/tour_date_type/19-nov-2026-cork-ireland-live-at-st-lukes/
   https://wilcoworld.net/tour_date_type/20-nov-2026-kilkenny-ireland-st-canice-cathedral/
-  https://wilcoworld.net/tour_date_type/20-oct-2026-three-oaks-mi-the-acorn/
   https://wilcoworld.net/tour_date_type/21-oct-2026-kent-oh-the-kent-stage/
   https://wilcoworld.net/tour_date_type/23-oct-2026-rochester-ny-rit-pac/
   https://wilcoworld.net/tour_date_type/24-oct-2026-ithaca-ny-state-theater/
