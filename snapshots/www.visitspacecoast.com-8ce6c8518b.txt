@@ -53,7 +53,9 @@ Vulcan VC6L | Amazon Leo (LV-01)
 Status: TBD
 Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected…
 November 29, 2026
+11:00 AM
 Falcon 9 Block 5 | Cygnus CRS-2 NG-25
+Status: TBC
 This is the 25th flight of the Orbital ATK’s uncrewed resupply spacecraft Cygnus and its 24th flight to the International Space Station under the Commercial Resupply Services contract with NASA.
 December 30, 2026
 Falcon 9 Block 5 | Globalstar 2-R Mission 2 (x 8)

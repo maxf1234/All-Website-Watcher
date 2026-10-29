@@ -65,6 +65,8 @@ Chicago, IL - Thalia Hall
 Marrakech, Morocco - March 25, 26, 27, 2027
 www.wilcoinmorocco.com
 Tickets
+06.12.2027
+Porto, Portugal - Primavera Sound Festival
 06.18.2027
 Vitoria-Gasteiz, Spain - Azkena Rock Festival
 www.azkenarockfestival.com
@@ -78,9 +80,6 @@ Woodstock, NY - Bearsville Theater
 10.27.2026
 10.28.2026
 New York, NY - Town Hall
-Doors 7 pm
-Case Oats 8pm
-Jeff solo 9pm
 10.30.2026
 Great Barrington, MA - Mahaiwe Performing Arts Center
 Doors 6:45pm
@@ -957,6 +956,7 @@ LINKS:
   https://wilcoworld.net/sign-up/
   https://wilcoworld.net/tour-stats
   https://wilcoworld.net/tour_date_type/1-nov-2026-waterville-me-waterville-opera-house/
+  https://wilcoworld.net/tour_date_type/12-june-2027-porto-portugal-primavera-porto-fest/
   https://wilcoworld.net/tour_date_type/16-nov-2026-galway-ireland-black-box/
   https://wilcoworld.net/tour_date_type/17-nov-2026-dublin-ireland-ambassador-theatre/
   https://wilcoworld.net/tour_date_type/18-june-2027-vitoria-gasteiz-es-azkena-rock-festival/
@@ -986,4 +986,5 @@ LINKS:
   https://www.cayamo.com/presale/
   https://www.etix.com/ticket/p/40027463/jeff-tweedy-woodstock-bearsville-theater
   https://www.etix.com/ticket/p/99710988/jeff-tweedy-woodstock-bearsville-theater
+  https://www.primaverasound.com/en/porto/tickets-porto
   https://www.watervillecreates.org/shows/jeff-tweedy/
