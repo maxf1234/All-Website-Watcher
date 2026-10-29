@@ -12,7 +12,7 @@
   },
   "neilyoungnews.thrasherswheat.org-c450d68b26": {
     "down": false,
-    "failures": 0,
+    "failures": 1,
     "last_change": "2026-10-28 17:22 UTC",
     "url": "https://neilyoungnews.thrasherswheat.org/?m=1"
   },
@@ -36,19 +36,19 @@
   "wilcoworld.net-913ea3bc84": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-28 17:22 UTC",
+    "last_change": "2026-10-29 01:18 UTC",
     "url": "https://wilcoworld.net/shows/"
   },
   "www.hodinkee.com-dd8c17120c": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-28 21:47 UTC",
+    "last_change": "2026-10-29 01:18 UTC",
     "url": "https://www.hodinkee.com/"
   },
   "www.newyorker.com-3845497ef1": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-27 05:33 UTC",
+    "last_change": "2026-10-29 01:18 UTC",
     "url": "https://www.newyorker.com/contributors/nick-paumgarten"
   },
   "www.unitedcardevents.com-ad5258fec1": {
@@ -59,7 +59,7 @@
   "www.visitspacecoast.com-8ce6c8518b": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-10-28 21:47 UTC",
+    "last_change": "2026-10-29 01:18 UTC",
     "url": "https://www.visitspacecoast.com/launches/"
   }
 }
