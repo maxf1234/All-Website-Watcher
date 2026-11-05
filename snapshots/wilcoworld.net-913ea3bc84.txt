@@ -71,8 +71,6 @@ Porto, Portugal - Primavera Sound Festival
 Vitoria-Gasteiz, Spain - Azkena Rock Festival
 www.azkenarockfestival.com
 jeff tweedy solo tourdates
-10.28.2026
-New York, NY - Town Hall
 10.30.2026
 Great Barrington, MA - Mahaiwe Performing Arts Center
 10.31.2026
@@ -83,15 +81,14 @@ Waterville, ME - Waterville Opera House
 Providence, RI - Uptown Theater
 11.04.2026
 Brooklyn, NY - Music Hall of Williamsburg
-Doors 6:30pm
-Case Oats 7:30pm
-Jeff solo 8:30pm
-ALMOST SOLD OUT
 11.06.2026
 Carmel, IN - The Tarkington
+Doors 6:30pm
+Case Oats 7:30pm
 Jeff solo
 11.07.2026
 Davenport, IA - Capitol Theatre
+Jeff solo 8:30pm
 11.16.2026
 Galway, Ireland - Black Box
 Jeff Tweedy solo performance
@@ -955,7 +952,6 @@ LINKS:
   https://wilcoworld.net/tour_date_type/20-nov-2026-kilkenny-ireland-st-canice-cathedral/
   https://wilcoworld.net/tour_date_type/25-27-march-2027-marrakech-morocco/
   https://wilcoworld.net/tour_date_type/25-february-5-march-2027-cayamo-cruise-miami-to-st-kitts-st-maarten/
-  https://wilcoworld.net/tour_date_type/28-oct-2026-new-york-ny-town-hall/
   https://wilcoworld.net/tour_date_type/3-nov-2026-providence-ri-uptown-theater/
   https://wilcoworld.net/tour_date_type/30-oct-2026-great-barrington-ma-mahaiwe-pac/
   https://wilcoworld.net/tour_date_type/31-oct-2026-groton-ma-groton-music-center/
