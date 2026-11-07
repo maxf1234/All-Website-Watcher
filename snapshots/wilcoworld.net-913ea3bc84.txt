@@ -81,11 +81,10 @@ Providence, RI - Uptown Theater
 Brooklyn, NY - Music Hall of Williamsburg
 11.06.2026
 Carmel, IN - The Tarkington
-Doors 6:30pm
-Case Oats 7:30pm
-Jeff solo
 11.07.2026
 Davenport, IA - Capitol Theatre
+Doors 6:30pm
+Case Oats 7:30pm
 Jeff solo 8:30pm
 11.16.2026
 Galway, Ireland - Black Box
@@ -242,6 +241,7 @@ Company In My Back
 Cortez The Killer [Neil Young cover]
 Cosmic Dancer (T. Rex cover)
 Country Disappeared
+Country Mile
 Country Song Upside-Down
 Cousin
 Crack A Smile [Jandek cover]
