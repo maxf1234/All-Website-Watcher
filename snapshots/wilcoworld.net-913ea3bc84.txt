@@ -71,8 +71,6 @@ Porto, Portugal - Primavera Sound Festival
 Vitoria-Gasteiz, Spain - Azkena Rock Festival
 www.azkenarockfestival.com
 jeff tweedy solo tourdates
-11.01.2026
-Waterville, ME - Waterville Opera House
 11.03.2026
 Providence, RI - Uptown Theater
 11.04.2026
@@ -936,7 +934,6 @@ LINKS:
   https://wilcoworld.net/shows/
   https://wilcoworld.net/sign-up/
   https://wilcoworld.net/tour-stats
-  https://wilcoworld.net/tour_date_type/1-nov-2026-waterville-me-waterville-opera-house/
   https://wilcoworld.net/tour_date_type/12-june-2027-porto-portugal-primavera-porto-fest/
   https://wilcoworld.net/tour_date_type/16-nov-2026-galway-ireland-black-box/
   https://wilcoworld.net/tour_date_type/17-nov-2026-dublin-ireland-ambassador-theatre/
@@ -959,4 +956,3 @@ LINKS:
   https://www.axs.com/events/1496408/jeff-tweedy-solo-with-special-guest-case-oats-tickets?skin=mhow
   https://www.cayamo.com/presale/
   https://www.primaverasound.com/en/porto/tickets-porto
-  https://www.watervillecreates.org/shows/jeff-tweedy/
