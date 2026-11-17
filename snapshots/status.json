@@ -12,7 +12,7 @@
   },
   "neilyoungnews.thrasherswheat.org-c450d68b26": {
     "down": false,
-    "failures": 0,
+    "failures": 1,
     "last_change": "2026-11-16 22:34 UTC",
     "url": "https://neilyoungnews.thrasherswheat.org/?m=1"
   },
@@ -36,13 +36,13 @@
   "wilcoworld.net-913ea3bc84": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-11-15 06:56 UTC",
+    "last_change": "2026-11-17 04:45 UTC",
     "url": "https://wilcoworld.net/shows/"
   },
   "www.hodinkee.com-dd8c17120c": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-11-16 22:34 UTC",
+    "last_change": "2026-11-17 04:45 UTC",
     "url": "https://www.hodinkee.com/"
   },
   "www.newyorker.com-3845497ef1": {
