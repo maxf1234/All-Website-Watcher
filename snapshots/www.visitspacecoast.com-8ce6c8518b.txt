@@ -52,16 +52,16 @@ Status: Go
 This is the 25th flight of the Orbital ATK’s uncrewed resupply spacecraft Cygnus and its 24th flight to the International Space Station under the Commercial Resupply Services contract with NASA.
 December 30, 2026
 7:00 PM
-Vulcan | USSF-43
+Falcon 9 Block 5 | SDA Tranche 2 Tracking Layer B
 Status: TBD
-Classified payload for the US Space Force.
-New Glenn | Blue Ring-1
-The first mission of Blue Ring, Blue Origin’s all-in-one, high-powered hybrid solar electric and chemical propelled spacecraft, will test the spacecraft’s operations in Geostationary Transfer Orbit (GTO), as well as subsequent operations after reaching Geostationary Orbit (GEO). It will carry one of Scout Space’s flagship next-generation space domain awareness (SDA)…
-Vulcan | USSF-16
-Falcon 9 Block 5 | BlueBird 14-16 (Block 2 #9-11)
-AST SpaceMobile’s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak…
-Vulcan | SILENTBARKER 2/NROL-118
-Space domain awareness mission for the US Department of Defense.
+Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Tracking Layer.
+Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D
+Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer.
+Falcon 9 Block 5 | SDA Tranche 2 Tracking Layer A
+Falcon 9 Block 5 | Telesat Lightspeed 5
+Up to 18 satellites manufactured by MDA for Canadian satellite operator Telesat’s Lightspeed constellation.
+Falcon Heavy | Griffin Mission One
+Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab.
 Upcoming Launches
 With NASA, SpaceX, and United Launch Alliance sending rockets to the stars, your chance of catching a launch on your next Space Coast getaway are highly likely.
 This page is automatically updated throughout the day. Download the "Space Coast Launches" app today for the most up to date launch details, live videos, and more information.
