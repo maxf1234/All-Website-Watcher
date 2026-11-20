@@ -12,13 +12,13 @@
   },
   "neilyoungnews.thrasherswheat.org-c450d68b26": {
     "down": false,
-    "failures": 2,
-    "last_change": "2026-11-19 02:01 UTC",
+    "failures": 0,
+    "last_change": "2026-11-20 08:35 UTC",
     "url": "https://neilyoungnews.thrasherswheat.org/?m=1"
   },
   "phishrumors.com-eb2dd85f5b": {
     "down": false,
-    "failures": 1,
+    "failures": 0,
     "url": "https://phishrumors.com/"
   },
   "realyoungarchives.com-fc891438ee": {
@@ -59,7 +59,7 @@
   "www.visitspacecoast.com-8ce6c8518b": {
     "down": false,
     "failures": 0,
-    "last_change": "2026-11-20 01:11 UTC",
+    "last_change": "2026-11-20 08:35 UTC",
     "url": "https://www.visitspacecoast.com/launches/"
   }
 }
