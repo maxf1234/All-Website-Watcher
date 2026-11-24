@@ -65,15 +65,83 @@ Chicago, IL - Thalia Hall
 Marrakech, Morocco - March 25, 26, 27, 2027
 www.wilcoinmorocco.com
 Tickets
+04.20.2027
+Huber Heights, OH - Rose Music Center
+An Evening With Wilco​
+Pre​sale​: Nov. 25 @ 9​ am local​
+​ Passcode: TurkeyETC​
+On Sale​: Nov. 27 @​ 9 am local
+04.21.2027
+Cincinnati, OH - Taft Theatre
+An Evening With Wilco
+Presale: Nov. 25 @ 10 am local
+Passcode: TurkeyETC
+On sale: Nov. 27 @ 10 am local
+04.23.2027
+Houston, TX - White Oak Music Hall Lawn
+Presale: Nov. 25 @ 9 am local
+On sale: Nov. 27 @ 9 am local
+04.24.2027
+Austin, TX - Moody Amphitheater at Waterloo Park
+Presale:Nov. 25 @ 9 am local
+On sale: Nov. 27 @9 am local
+04.25.2027
+Dallas, TX - Longhorn Backyard Amphitheater
+04.27.2027
+Denver, CO - Mission Ballroom
+04.30.2027
+Mesa, AZ - Mesa Amphitheatre
+05.01.2027
+Tucson, AZ - Linda Ronstadt Music Hall
+On sale: Nov. 27 @ 9am local
+05.02.2027
+Joshua Tree, CA - Joshua Tree Retreat Center
+05.06.2027
+Paso Robles, CA - Vina Robles Amphitheatre
+On sale:Nov. 27 @9 am local
+05.08.2027
+Los Angeles, CA - The Greek Theater
+05.09.2027
+San Francisco, CA - The Fillmore
+05.10.2027
+05.11.2027
+05.13.2027
+05.14.2027
+05.15.2027
+Sacramento, CA - Channel 24
 06.12.2027
 Porto, Portugal - Primavera Sound Festival
+06.15.2027
+Murcia, Spain - Mamba Garden
+Presale: 25 Nov @ 10am local
+On sale: 26 Nov @ 10am local
+with special guest Pratt & Moody
+Presale
+Sevilla, Spain - Cartuja Center CITE
+On sale 26 Nov @ 10am local
 06.18.2027
 Vitoria-Gasteiz, Spain - Azkena Rock Festival
 www.azkenarockfestival.com
+06.19.2027
+Bordeaux, France - Le Rocher de Pamer
+On sale: 27 Nov @ 10am local
+06.20.2027
+Lyon, France - Le Transbordeur
+On sale 27 Nov @ 10am local
+06.22.2027
+Cologne, Germany - Carlswerk Victoria
+06.25.2027
+Copenhagen, Denmark - Amager Bio
+06.26.2027
+Berlin, Germany - Huxleys Neue Welt
+06.27.2027
+Prague, Czech Republic - ROXY
+06.30.2027
+Gardone Riviera, Italy - Anfiteatro del Vittoriale
 07.02.2027
 Luxembourg, Luxembourg - Neimënster
-Pre Sale starts 25 Nov @10am local Pre sale code: TurkeyETC
-On Sale 27 Nov @ 10am local
+07.03.2027
+Werchter, Belgium - Rock Werchter
 jeff tweedy solo tourdates
 11.17.2026
 Dublin, Ireland - Ambassador Theatre
@@ -927,12 +995,19 @@ LINKS:
   http://solidsoundfestival.com
   http://twitter.com/wilco
   http://wilcostore.com
+  http://www.azkenarockfestival.com
   http://www.facebook.com/wilcohq
   http://www.iconinteractive.com
+  http://www.wilcoinmorocco.com
+  https://admin.goout.net/cs/ticketing/sale/645789/overview/
   https://azkenarockfestival.com/tickets/
   https://bigearsfestival.org
+  https://billetterie.seetickets.fr/wilco-transbordeur-villeurbanne-20-juin-2027-css5-lasasconcertsprevente-pg101-ri12013727.html
+  https://feverup.com/m/796820
   https://goguecenter.evenue.net/event/G26/AE0221
   https://jefftweedy.substack.com/
+  https://lerocherdepalmer.fr/
+  https://salamamba.compralaentrada.com/afiliados
   https://theparamount.net/event/punch-brothers-tweedy
   https://url.avanan.click/v2/r01/___https://tickets.appellcenter.org/10767/10768___.YXAzOmFwcGVsbGNlbnRlcjphOm86NzA5MmUxZmE5OWM4OTA3MjhhNDkwYWUxODk1NzAwMzA6NzoxNTQ1OjQ5YWJhZTQ2NjI5YTBhN2RhNjUyZGU4ZTQzMjQwOGU3ZGU5NDQxNWFhYjM5MmYwZDNjMzY5NDI0YmNlZTY1MDg6aDpUOk4
   https://wilco.bingomerch.com
@@ -946,31 +1021,79 @@ LINKS:
   https://wilcoworld.net/shows/
   https://wilcoworld.net/sign-up/
   https://wilcoworld.net/tour-stats
+  https://wilcoworld.net/tour_date_type/1-may-2027-tucson-az-linda-ronstadt-music-hall/
+  https://wilcoworld.net/tour_date_type/10-may-2027san-francisco-ca-the-fillmore/
+  https://wilcoworld.net/tour_date_type/11-may-2027san-francisco-ca-the-fillmore/
   https://wilcoworld.net/tour_date_type/12-june-2027-porto-portugal-primavera-porto-fest/
+  https://wilcoworld.net/tour_date_type/13-may-2027san-francisco-ca-the-fillmore/
+  https://wilcoworld.net/tour_date_type/14-may-2027san-francisco-ca-the-fillmore/
+  https://wilcoworld.net/tour_date_type/15-june-2027-murcia-es-mamba-garden/
+  https://wilcoworld.net/tour_date_type/15-may-2027sacramento-ca-channel-24/
+  https://wilcoworld.net/tour_date_type/16-june-2027-sevilla-es-cartuja-center-cite/
   https://wilcoworld.net/tour_date_type/17-feb-2027-york-pa-appell-cpa/
   https://wilcoworld.net/tour_date_type/17-nov-2026-dublin-ireland-ambassador-theatre/
   https://wilcoworld.net/tour_date_type/18-june-2027-vitoria-gasteiz-es-azkena-rock-festival/
   https://wilcoworld.net/tour_date_type/19-feb-2027-charlottesville-va-the-paramount-theater/
+  https://wilcoworld.net/tour_date_type/19-june-2027-bordeaux-fr-le-rocher-de-palmer/
   https://wilcoworld.net/tour_date_type/19-nov-2026-cork-ireland-live-at-st-lukes/
   https://wilcoworld.net/tour_date_type/2-july-2027-luxembourg-city-lu-neimenster/
+  https://wilcoworld.net/tour_date_type/2-may-2027-joshua-tree-ca-joshua-tree-retreat-car/
+  https://wilcoworld.net/tour_date_type/20-april-2027-huber-heights-oh-rose-music-ctr/
   https://wilcoworld.net/tour_date_type/20-feb-2027-asheville-nc-thomas-wolfe-aud/
+  https://wilcoworld.net/tour_date_type/20-june-2027-lyon-fr-le-transbordeur/
   https://wilcoworld.net/tour_date_type/20-nov-2026-kilkenny-ireland-st-canice-cathedral/
+  https://wilcoworld.net/tour_date_type/21-april-2027-cincinnati-oh-taft-theatre/
   https://wilcoworld.net/tour_date_type/21-feb-2027-auburn-al-gogue-pac/
+  https://wilcoworld.net/tour_date_type/22-june-2027-cologne-de-carlswerk-victoria/
+  https://wilcoworld.net/tour_date_type/23-april-2027-houston-tx-white-oak-music-hall-lawn/
   https://wilcoworld.net/tour_date_type/23-feb-2027-clearwater-fl-ruth-eckerd-hall/
+  https://wilcoworld.net/tour_date_type/24-april-2027-austin-tx-moody-amp-at-waterloo-park/
   https://wilcoworld.net/tour_date_type/24-feb-2027-ft-lauderdale-fl-the-parker/
   https://wilcoworld.net/tour_date_type/25-27-march-2027-marrakech-morocco/
+  https://wilcoworld.net/tour_date_type/25-april-2027-dallas-tx-longhorn-backyard-amp/
   https://wilcoworld.net/tour_date_type/25-feb-2027-ft-lauderdale-fl-steinmetz-hall-at-dr-phillips-ctr/
   https://wilcoworld.net/tour_date_type/25-february-5-march-2027-cayamo-cruise-miami-to-st-kitts-st-maarten/
+  https://wilcoworld.net/tour_date_type/25-june-2027-copenhagen-dk-amager-bio/
+  https://wilcoworld.net/tour_date_type/26-june-2027-berlin-de-huxleys-neue-welt/
+  https://wilcoworld.net/tour_date_type/27-april-2027-denver-co-mission-ballroom/
+  https://wilcoworld.net/tour_date_type/27-june-2027-prague-czech-republic-roxy/
+  https://wilcoworld.net/tour_date_type/3-july-2027-werchter-be-rock-werchter/
+  https://wilcoworld.net/tour_date_type/30-april-2027-mesa-az-mesa-amp/
+  https://wilcoworld.net/tour_date_type/30-june-2027-gardone-riviera-it-anfiteatro-del-vittoriale/
   https://wilcoworld.net/tour_date_type/4-april-2027-knoxville-tn-big-ears-festival/
   https://wilcoworld.net/tour_date_type/4-december-2026-chicago-il-chicago-theatre/
   https://wilcoworld.net/tour_date_type/5-december-2026-chicago-il-chicago-theatre/
+  https://wilcoworld.net/tour_date_type/6-may-2027-paso-robles-ca-vina-robles-amp/
+  https://wilcoworld.net/tour_date_type/8-may-2027-los-angeles-ca-the-greek-theater/
+  https://wilcoworld.net/tour_date_type/9-may-2027san-francisco-ca-the-fillmore/
   https://wilcoworld.net/tour_date_type/announce-10-812pm-7-dec-2026-chicago-il-thalia-hall/
   https://wilcoworld.net/tour_date_type/announce-10-812pm-8-dec-2026-chicago-il-thalia-hall/
   https://wilcoworld.net/wilcomusic/
+  https://wl.eventim.us/event/an-evening-with-wilco/711925?afflky=SisterMidnight
+  https://www.axs.com/events/1705070/an-evening-with-wilco-tickets
+  https://www.axs.com/events/1709114/an-evening-with-wilco-tickets
+  https://www.billetlugen.dk/event/22434899/?affiliate=SB9&exclusive_dealid=200395
   https://www.cayamo.com/presale/
   https://www.drphillipscenter.org/show/punch-brothers-and-jeff-tweedy-yyxl
+  https://www.eventim.de/artist/wilco/wilco-4293779/?affiliate=V43
   https://www.neimenster.lu/en/events/wilco/
   https://www.parkerplayhouse.com/events/detail/punch-brothers-jeff-tweedy-2027
   https://www.primaverasound.com/en/porto/tickets-porto
   https://www.rutheckerdhall.com/events/detail/punch-brothers-jeff-tweedy
+  https://www.ticketmaster.be/artist/rock-werchter-festival-tickets/937795?language=en-us
+  https://www.ticketmaster.com/event/09006571BBDA9B00
+  https://www.ticketmaster.com/event/090065743A3C8B3D
+  https://www.ticketmaster.com/event/16006572CBCCC9B2
+  https://www.ticketmaster.com/event/1600657473DC286E
+  https://www.ticketmaster.com/event/19006574E354A166
+  https://www.ticketmaster.com/event/190065752085B7C3
+  https://www.ticketmaster.com/event/1C006572B60C17C3
+  https://www.ticketmaster.com/event/1C006572B61117CD
+  https://www.ticketmaster.com/event/1C006572B61617D8
+  https://www.ticketmaster.com/event/1C006572B61B17EC
+  https://www.ticketmaster.com/event/1C006572B61F1808
+  https://www.ticketmaster.com/event/1C006573B5D62AAD?camefrom=CFC_ANOTHERPLANET_artist&brand=anotherplanet
   https://www.ticketmaster.com/event/2D006565BB82BAF8
+  https://www.ticketmaster.com/event/3A006573CB93268F
+  https://www.ticketmaster.com/event/3A006576E5A8D6F8
+  https://www.ticketone.it/artist/wilco/?affiliate=PI2

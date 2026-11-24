@@ -190,11 +190,11 @@ LINKS:
   https://www.visitspacecoast.com/america250/
   https://www.visitspacecoast.com/artemis/book-your-trip/
   https://www.visitspacecoast.com/beach-safety/
-  https://www.visitspacecoast.com/blog/2026-holiday-event-preview/
   https://www.visitspacecoast.com/blog/3-unexpected-ways-to-experience-a-rocket-launch/
   https://www.visitspacecoast.com/blog/5-must-dos-to-make-the-most-of-your-rocket-launch-experience/
   https://www.visitspacecoast.com/blog/accessibility/
   https://www.visitspacecoast.com/blog/floridas-space-coast-astronaut-itinerary/
+  https://www.visitspacecoast.com/blog/holiday/
   https://www.visitspacecoast.com/blog/privacy/
   https://www.visitspacecoast.com/blog/space-coast-museum-guide/
   https://www.visitspacecoast.com/blogs/
