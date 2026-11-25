@@ -50,19 +50,21 @@ November 29, 2026
 Falcon 9 Block 5 | Cygnus CRS-2 NG-25
 Status: Go
 This is the 25th flight of the Orbital ATK’s uncrewed resupply spacecraft Cygnus and its 24th flight to the International Space Station under the Commercial Resupply Services contract with NASA.
+December 4, 2026
+7:55 AM
+Falcon 9 Block 5 | CHORUS
+CHORUS is MDA’s next generation Earth observation constellation, consisting of 2 radar satellites (C-band SAR and X-band SAR), in a 53.5 degree 600 km altitude LEO, with the X-band trailing the C-band by 60 minutes. A collaborative multi-sensor constellation, CHORUS will bring together diverse and unique imagery and data sources…
 December 30, 2026
 7:00 PM
-Falcon 9 Block 5 | Globalstar 2-R Mission 2 (x 8)
+Atlas V N22 | Starliner-1
 Status: TBD
-The Globalstar global mobile communications network offers global, digital real time voice, data and fax services via its Low Earth Orbit satellite constellation. The constellation operates in a 1410 km orbit inclined at 52 degrees. In early 2022, Globalstar contracted with MDA for the construction of 17 new 2nd generation…
-Falcon 9 Block 5 | Telesat Lightspeed 1
-First two satellites manufactured by MDA for Canadian satellite operator Telesat’s Lightspeed constellation.
-Vulcan | NROL-64
-Classified payload for the US National Reconnaissance Office
-Falcon 9 Block 5 | VICTUS SURGO
-A new Tactically Responsive Space (TacRS) mission by the United States Space Force Space Systems Command to deliver responsive space delivery. The mission consists of an Impulse Space Mira orbital transfer vehicle that will operate in Geosynchronous Transfer Orbit (GTO), which would be transferred from Low Earth Orbit (LEO) on…
-Falcon 9 Block 5 | Telesat Lightspeed 3
-Up to 18 satellites manufactured by MDA for Canadian satellite operator Telesat’s Lightspeed constellation.
+Starliner-1 is the first operational flight of a Starliner spacecraft to the International Space Station as part of NASA’s Commercial Crew Program. Due to problems with the Starliner spacecraft’s RCS attitude control system during the Crew Flight Test mission in 2024, this mission has been re-scoped to not carry a…
+Vulcan | USSF-25
+Payload is the Defense Advanced Research Projects Agency’s (DARPA) Demonstration Rocket for Agile Cislunar Operations (DRACO) nuclear thermal spacecraft.
+New Glenn | BlueBird Block 2
+AST SpaceMobile’s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak…
+Falcon 9 Block 5 | SDA Tranche 2 Tracking Layer B
+Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Tracking Layer.
 Upcoming Launches
 With NASA, SpaceX, and United Launch Alliance sending rockets to the stars, your chance of catching a launch on your next Space Coast getaway are highly likely.
 This page is automatically updated throughout the day. Download the "Space Coast Launches" app today for the most up to date launch details, live videos, and more information.
