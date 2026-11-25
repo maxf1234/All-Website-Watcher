@@ -67,42 +67,43 @@ www.wilcoinmorocco.com
 Tickets
 04.20.2027
 Huber Heights, OH - Rose Music Center
-An Evening With Wilco​
-Pre​sale​: Nov. 25 @ 9​ am local​
-​ Passcode: TurkeyETC​
-On Sale​: Nov. 27 @​ 9 am local
+An Evening With Wilco
+Presale: Nov. 25 @10am EST
+Passcode: TurkeyETC
+On sale: Nov. 27 @ 10 am EST
 04.21.2027
 Cincinnati, OH - Taft Theatre
-An Evening With Wilco
-Presale: Nov. 25 @ 10 am local
-Passcode: TurkeyETC
-On sale: Nov. 27 @ 10 am local
+Presale: Nov. 25 @ 10 am EST
+On sale: Nov. 27 @ 10am EST
 04.23.2027
 Houston, TX - White Oak Music Hall Lawn
-Presale: Nov. 25 @ 9 am local
-On sale: Nov. 27 @ 9 am local
+Presale: Nov. 25 @ 9 am CST
+On sale: Nov. 27 @ 9 am CST
 04.24.2027
 Austin, TX - Moody Amphitheater at Waterloo Park
-Presale:Nov. 25 @ 9 am local
-On sale: Nov. 27 @9 am local
+Presale:Nov. 25 @ 9 am CST
 04.25.2027
 Dallas, TX - Longhorn Backyard Amphitheater
 04.27.2027
 Denver, CO - Mission Ballroom
+Presale: Nov. 25 @ 8 am MST
+On sale: Nov. 27 @ 8 am MST
 04.30.2027
 Mesa, AZ - Mesa Amphitheatre
 05.01.2027
 Tucson, AZ - Linda Ronstadt Music Hall
-On sale: Nov. 27 @ 9am local
 05.02.2027
 Joshua Tree, CA - Joshua Tree Retreat Center
+Presale: Nov. 25 @ 7 am PST
+On sale: Nov. 27 @ 7 am PST
 05.06.2027
 Paso Robles, CA - Vina Robles Amphitheatre
-On sale:Nov. 27 @9 am local
 05.08.2027
 Los Angeles, CA - The Greek Theater
 05.09.2027
 San Francisco, CA - The Fillmore
+ALT ticket link = for all 5 nights
+Tickets Alt Tickets
 05.10.2027
 05.11.2027
 05.13.2027
@@ -113,38 +114,46 @@ Sacramento, CA - Channel 24
 Porto, Portugal - Primavera Sound Festival
 06.15.2027
 Murcia, Spain - Mamba Garden
-Presale: 25 Nov @ 10am local
-On sale: 26 Nov @ 10am local
+On sale: 26 Nov @ 10am CET
 with special guest Pratt & Moody
-Presale
+06.16.2027
 Sevilla, Spain - Cartuja Center CITE
-On sale 26 Nov @ 10am local
+On sale 26 Nov @ 10 am CET
 06.18.2027
 Vitoria-Gasteiz, Spain - Azkena Rock Festival
 www.azkenarockfestival.com
 06.19.2027
 Bordeaux, France - Le Rocher de Pamer
-On sale: 27 Nov @ 10am local
+Presale: 25 Nov. @ 10 am CET
+On sale: 27 Nov. @ 10 am CET
+Presale
 06.20.2027
 Lyon, France - Le Transbordeur
-On sale 27 Nov @ 10am local
+Presale: 25 Nov @ 10am CET
+On sale 27 Nov @ 10 am CET
 06.22.2027
 Cologne, Germany - Carlswerk Victoria
+Presale: 25 Nov @4pm CET
+On sale: 27 Nov @ 10 am CET
 06.25.2027
 Copenhagen, Denmark - Amager Bio
+Presale: 25 Nov. @ 4pm CET
 06.26.2027
 Berlin, Germany - Huxleys Neue Welt
 06.27.2027
 Prague, Czech Republic - ROXY
+Presale: 25 Nov @ 4pm CET
+06.29.2027
+Genevea, Switzerland - Alhambra/Antigel
+On Sale 25 Nov @ 12pm CET
 06.30.2027
 Gardone Riviera, Italy - Anfiteatro del Vittoriale
+On sale: 27 Nov. @ 10am CET
 07.02.2027
 Luxembourg, Luxembourg - Neimënster
 07.03.2027
 Werchter, Belgium - Rock Werchter
 jeff tweedy solo tourdates
-11.17.2026
-Dublin, Ireland - Ambassador Theatre
 11.19.2026
 Cork, Ireland - Live at St Lukes
 11.20.2026
@@ -1000,6 +1009,7 @@ LINKS:
   http://www.iconinteractive.com
   http://www.wilcoinmorocco.com
   https://admin.goout.net/cs/ticketing/sale/645789/overview/
+  https://antigel.ch
   https://azkenarockfestival.com/tickets/
   https://bigearsfestival.org
   https://billetterie.seetickets.fr/wilco-transbordeur-villeurbanne-20-juin-2027-css5-lasasconcertsprevente-pg101-ri12013727.html
@@ -1031,7 +1041,6 @@ LINKS:
   https://wilcoworld.net/tour_date_type/15-may-2027sacramento-ca-channel-24/
   https://wilcoworld.net/tour_date_type/16-june-2027-sevilla-es-cartuja-center-cite/
   https://wilcoworld.net/tour_date_type/17-feb-2027-york-pa-appell-cpa/
-  https://wilcoworld.net/tour_date_type/17-nov-2026-dublin-ireland-ambassador-theatre/
   https://wilcoworld.net/tour_date_type/18-june-2027-vitoria-gasteiz-es-azkena-rock-festival/
   https://wilcoworld.net/tour_date_type/19-feb-2027-charlottesville-va-the-paramount-theater/
   https://wilcoworld.net/tour_date_type/19-june-2027-bordeaux-fr-le-rocher-de-palmer/
@@ -1057,6 +1066,7 @@ LINKS:
   https://wilcoworld.net/tour_date_type/26-june-2027-berlin-de-huxleys-neue-welt/
   https://wilcoworld.net/tour_date_type/27-april-2027-denver-co-mission-ballroom/
   https://wilcoworld.net/tour_date_type/27-june-2027-prague-czech-republic-roxy/
+  https://wilcoworld.net/tour_date_type/29-june-2027-geneva-ch-alhambra-antigel/
   https://wilcoworld.net/tour_date_type/3-july-2027-werchter-be-rock-werchter/
   https://wilcoworld.net/tour_date_type/30-april-2027-mesa-az-mesa-amp/
   https://wilcoworld.net/tour_date_type/30-june-2027-gardone-riviera-it-anfiteatro-del-vittoriale/
@@ -1092,6 +1102,7 @@ LINKS:
   https://www.ticketmaster.com/event/1C006572B61617D8
   https://www.ticketmaster.com/event/1C006572B61B17EC
   https://www.ticketmaster.com/event/1C006572B61F1808
+  https://www.ticketmaster.com/event/1C006572B6251813
   https://www.ticketmaster.com/event/1C006573B5D62AAD?camefrom=CFC_ANOTHERPLANET_artist&brand=anotherplanet
   https://www.ticketmaster.com/event/2D006565BB82BAF8
   https://www.ticketmaster.com/event/3A006573CB93268F
