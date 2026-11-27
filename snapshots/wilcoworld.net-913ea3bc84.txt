@@ -153,8 +153,6 @@ Luxembourg, Luxembourg - Neimënster
 07.03.2027
 Werchter, Belgium - Rock Werchter
 jeff tweedy solo tourdates
-11.19.2026
-Cork, Ireland - Live at St Lukes
 11.20.2026
 Kilkenny, Ireland - St Canice's Cathedral
 02.17.2027
@@ -1043,7 +1041,6 @@ LINKS:
   https://wilcoworld.net/tour_date_type/18-june-2027-vitoria-gasteiz-es-azkena-rock-festival/
   https://wilcoworld.net/tour_date_type/19-feb-2027-charlottesville-va-the-paramount-theater/
   https://wilcoworld.net/tour_date_type/19-june-2027-bordeaux-fr-le-rocher-de-palmer/
-  https://wilcoworld.net/tour_date_type/19-nov-2026-cork-ireland-live-at-st-lukes/
   https://wilcoworld.net/tour_date_type/2-july-2027-luxembourg-city-lu-neimenster/
   https://wilcoworld.net/tour_date_type/2-may-2027-joshua-tree-ca-joshua-tree-retreat-car/
   https://wilcoworld.net/tour_date_type/20-april-2027-huber-heights-oh-rose-music-ctr/
