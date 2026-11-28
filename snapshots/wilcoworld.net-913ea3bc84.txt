@@ -132,8 +132,6 @@ Luxembourg, Luxembourg - Neimënster
 07.03.2027
 Werchter, Belgium - Rock Werchter
 jeff tweedy solo tourdates
-11.20.2026
-Kilkenny, Ireland - St Canice's Cathedral
 02.17.2027
 York, PA - Appell Center for the Performing Arts
 PUNCH BROTHERS & JEFF TWEEDY
@@ -1025,7 +1023,6 @@ LINKS:
   https://wilcoworld.net/tour_date_type/20-april-2027-huber-heights-oh-rose-music-ctr/
   https://wilcoworld.net/tour_date_type/20-feb-2027-asheville-nc-thomas-wolfe-aud/
   https://wilcoworld.net/tour_date_type/20-june-2027-lyon-fr-le-transbordeur/
-  https://wilcoworld.net/tour_date_type/20-nov-2026-kilkenny-ireland-st-canice-cathedral/
   https://wilcoworld.net/tour_date_type/21-april-2027-cincinnati-oh-taft-theatre/
   https://wilcoworld.net/tour_date_type/21-feb-2027-auburn-al-gogue-pac/
   https://wilcoworld.net/tour_date_type/22-june-2027-cologne-de-carlswerk-victoria/
